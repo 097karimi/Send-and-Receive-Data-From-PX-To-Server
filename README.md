@@ -15,6 +15,6 @@
 
 
 # To do
-  - [] complete arm and disarm functionality
-  - [] add RTL
-  - [] add Start Mission
+  - [ ] complete arm and disarm functionality
+  - [ ] add RTL
+  - [ ] add Start Mission
